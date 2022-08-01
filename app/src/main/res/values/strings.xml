@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose Template</string>
+    <string name="label_hello_world">Hello World</string>
+    <string name="label_hello_compose">Hello Compose</string>
+    <string name="cd_app_logo">CD app logo</string>
+    <string name="action_click_me">Click Me</string>
+</resources>
